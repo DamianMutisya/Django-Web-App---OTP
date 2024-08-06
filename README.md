@@ -67,9 +67,7 @@ admin.site.__class__ = OTPAdminSite
 ### 6. Add a Device in Admin
 Navigate to `http://localhost:8000/admin/` and add a device. Click on the QR code to copy the link and answer the final quiz question. Replace the `secret` value with `<SECRET>`.
 
-## Additional Notes
-For a detailed discussion on setting up Django, follow [this tutorial](https://docs.djangoproject.com/en/3.2/intro/tutorial01/).
 
-## Repository
-[Link to the GitHub repository](https://github.com/your-username/django-otp-webapp)
+
+
 
